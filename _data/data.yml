@@ -72,12 +72,13 @@ skills:
 
     toolset:
       - name: 'Programming : Java, JavaScript'
-      - name: 'Messaging : Kafka'
+      - name: 'Messaging : Kafka, IBM MQ'
       - name: 'Frameworks : Spring Boot (Java), React'
-      - name: 'Database : PostgreSQL, MySQL, Oracle'
-      - name: 'Testing Tools : JUnit, Mockito, Cucumber, Gatling, Chai'
+      - name: 'Database : Redis, PostgreSQL, Cosmos, Oracle'
+      - name: 'Testing Tools : JUnit, Cucumber, Mockito, Gatling, Chai'
       - name: 'Dev Tools : Git, IntelliJ, Postman'
       - name: 'NFR Tools : Splunk, Jenkins, New Relic'
       - name: 'Dev Ops : Docker'
+      - name: 'Web Design: HTML5, CSS'
 
 footer: >
