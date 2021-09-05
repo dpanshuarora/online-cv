@@ -34,7 +34,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Full Stack Developer with 3 years of experience. I’ve worked on projects from varied domains to deliver maximum business value while focusing on maintainability, scalability and automation.
+      I am a Backend Developer with 3 years of experience. I’ve worked on projects from varied domains to deliver business value while focussing on scalability and maintainability.
 education:
     - degree: Bachelors of Technology in Computer Science
       university: Guru Gobind Singh Indraprashta University
@@ -61,15 +61,12 @@ experiences:
           - Set up demos for client for every completed story
           - Agile Practices: code review, pair programming, sprint planning, story estimation, sprint reviews and feedback
 
-        Domain
-          - Experience with Retail, Telemedicine and Automobile domain
-
 
 skills:
     title: Skills
 
     toolset:
-      - name: 'Programming : Java, JavaScript'
+      - name: 'Programming : Java, JavaScript, Shell Scripting'
       - name: 'Messaging : Kafka, IBM MQ'
       - name: 'Frameworks : Spring Boot (Java), React'
       - name: 'Database : Redis, PostgreSQL, Cosmos, Oracle'
