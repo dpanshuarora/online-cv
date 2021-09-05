@@ -30,6 +30,12 @@ sidebar:
       - idiom: Hindi
 
     interests:
+      - interest:
+          item: Baking
+      - interest:
+          item: Swimming
+      - interest:
+          item: Cycling
 
 career-profile:
     title: Career Profile
